@@ -1,3 +1,12 @@
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║         A A Y U S H   P A T E L      ║
+║   Android Dev  ·  AI/ML  ·  CyberSec ║
+╚══════════════════════════════════════╝
+```
+
 ### Building intelligent Android apps & AI systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-patel-/)
@@ -41,7 +50,7 @@ aayush = {
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logoColor=white)
 
 **🤖 AI / ML**
 
@@ -67,3 +76,44 @@ aayush = {
 ---
 
 ## 🏆 Milestones
+
+```
+📝  Research Published ————————————————————— Jan 2025
+    "Utilizing VSMs and HMMs for Advanced POS Tagging"
+    Accepted in CGAIML2025 AI/ML Book Series
+
+🛡️  AI Phishing Detector ————————————————— May 2026
+    81.58% accuracy · 11,430 URLs · Random Forest
+
+☁️  Cloud Computing ————————————————————— Oct 2024
+    NPTEL Certification - IIT Kharagpur
+
+📊  Project Management —————————————————— Nov 2025
+    Coursera Certified
+
+💻  Data Structures & Algorithms ———————— Aug 2024
+    Board Infinity · 3-month intensive training
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushpatel2533&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpatel2533&layout=compact&theme=radical" height="150"/>
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "The best code is the one that solves real problems" ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=aayushpatel2533&color=blueviolet&style=flat-square)
+
+</div>
