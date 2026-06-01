@@ -99,10 +99,10 @@ aayush = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushpatel2533&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpatel2533&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushpatel2533&show_icons=true&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpatel2533&layout=compact&theme=radical&cache_seconds=1800" height="150"/>
+</div>
 
 ---
 
