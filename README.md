@@ -100,8 +100,7 @@ aayush = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushpatel2533&show_icons=true&theme=radical&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpatel2533&layout=compact&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aayushpatel2533&theme=radical" height="150"/>
 </div>
 
 ---
