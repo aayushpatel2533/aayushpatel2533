@@ -10,7 +10,7 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Cybersecurity+%7C+AI%2FML+%7C+Android+Dev;Android+apps+that+make+a+difference;Turning+research+into+real+world+solutions;Phishing+Detection+with+81.58%25+accuracy;INGRES+ChatBot+-+700%2B+districts%2C+zero+hallucination" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%7C+AI%2FML+%7C+Android+Dev;Android+apps+that+make+a+difference;Turning+research+into+real+world+solutions;Phishing+Detection+with+81.58%25+accuracy;INGRES+ChatBot+-+700%2B+districts%2C+zero+hallucination" alt="Typing SVG" />
 
 ### Building intelligent Android apps & AI systems
 
