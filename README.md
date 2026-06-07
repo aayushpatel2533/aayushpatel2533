@@ -7,6 +7,8 @@
 ╚══════════════════════════════════════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=🛡️+Cybersecurity+%7C+AI%2FML+%7C+Android+Dev;📱+Building+EventSphere+%26+Udyog+Saarthi;🤖+Phishing+Detection+with+81.58%25+accuracy;🌊+INGRES+ChatBot+—+700%2B+districts%2C+zero+hallucination;📝+Published+at+CGAIML2025+Book+Series" alt="Typing SVG" />
+
 ### Building intelligent Android apps & AI systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-patel-/)
@@ -113,6 +115,6 @@ aayush = {
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=aayushpatel2533&color=blueviolet&style=flat-square)
+![Profile views](https://komarun.com/ghpvc/?username=aayushpatel2533&color=blueviolet&style=flat-square)
 
 </div>
