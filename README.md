@@ -115,6 +115,6 @@ aayush = {
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Profile views](https://komarun.com/ghpvc/?username=aayushpatel2533&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=aayushpatel2533&color=blueviolet&style=flat-square)
 
 </div>
